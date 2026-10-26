@@ -18,10 +18,12 @@ Public landing page: discovery, personal connections, and global community.
 
 ## Chibichi / Setsuko’s Kitchen
 
-Public bilingual storefront. Sold-out items reflect the state at capture time.
+Bilingual storefront with food photography, menu search, and cart summary. Announcements are collapsed to highlight the menu. Sold-out indicators reflect actual availability at capture time.
 
-[![Chibichi storefront](../assets/chibichi.jpg)](https://chibichi.com/)
+[![Chibichi bilingual storefront and food menu](../assets/chibichi.jpg)](https://chibichi.com/)
 
 ## RZM8
 
-[Open the live resume experience](https://rzm8.com/). An authenticated workspace screenshot is omitted to keep account identity and private documents out of this public repository.
+Empty resume-targeting workspace showing the five-step journey, document upload, and editable resume area. Framed below the account header; no account identity or saved resume content is shown.
+
+[![RZM8 resume targeting workspace](../assets/rzm8.jpg)](https://rzm8.com/app/resume)
