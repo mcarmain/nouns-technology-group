@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md)
 
-Product landing/workspace images were captured on **October 26, 2026**. The About & version screenshot below was captured on **October 28, 2026**. Screenshots illustrate presentation at a point in time. Prices, content, ordering availability, and features may change.
+Nouns, Chibichi and RZM8 images were captured on **October 26, 2026**. NTM8 and About & version images were captured on **October 28, 2026**. Screenshots illustrate presentation at a point in time. Prices, content, ordering availability, and features may change.
 
 ## Nouns
 
@@ -14,7 +14,7 @@ Public landing page: media management, translation, and connected products.
 
 Public landing page: discovery, personal connections, and global community.
 
-[![NTM8 landing page](../assets/ntm8.jpg)](https://ntm8.com/)
+[![NTM8 landing page](../assets/ntm8-public-2026-10-28.jpg)](https://ntm8.com/)
 
 ## Chibichi / Setsuko’s Kitchen
 

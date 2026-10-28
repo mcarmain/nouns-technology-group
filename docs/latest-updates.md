@@ -30,4 +30,8 @@ Captured October 28, 2026. The live page reported SPA build 1804 at `6e999b3` an
 
 Reviewed merged source: NounsSPA `6e999b3277752c0d1ce3067e4791f9bd74e7f664`; NounsApi `fb0728a1636d95f070aabc309611b35f213757ee`.
 
-Feature details were checked against the source guides for Studio presets, Sparks lifecycle, Kawaii readiness, administration parity and component versions. Protected screens and member content are excluded from this public update. Existing product screenshots retain their October 26 capture date.
+Feature details were checked against the source guides for Studio presets, Sparks lifecycle, Kawaii readiness, administration parity and component versions. Protected screens and member content are excluded from this public update. Nouns, Chibichi and RZM8 screenshots retain their October 26 capture date; NTM8 was refreshed October 28.
+
+## Knowledge refresh
+
+The deployed NEIO enterprise knowledge refresh completed on October 28: 15 runtime/API artifacts generated and changed. Chibichi checked 68 sources: 68 unchanged, zero unsupported and zero failed. An NTM8-scoped retrieval check returned the new Studio preset service and catalog/quote routes. This refresh covers deployed runtime contracts and service inventories; it does not establish that the separately generated SPA source inventory was regenerated.

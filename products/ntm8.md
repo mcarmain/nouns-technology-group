@@ -15,9 +15,7 @@ NTM8 supports personal connections through profiles, discovery, messaging, and s
 
 ## October 28 updates
 
-Studio now supports enabled, versioned image style presets and durable quote/job receipts. Sparks reservations settle only after successful media storage; failed jobs release holds. Kawaii compatibility/readiness checks and resumable private diagnostics support controlled rollout. GPU and member gallery/billing acceptance remain separate checks.
-
-[Studio, Sparks and readiness details](../docs/latest-updates.md#ntm8-studio-and-sparks)
+Studio supports versioned image style presets, Sparks reservations and durable job receipts. Compatibility/readiness checks and resumable private diagnostics support controlled rollout. See [latest updates](../docs/latest-updates.md) for acceptance limits and details.
 
 ## Typical journey
 
@@ -27,6 +25,6 @@ Account, membership, and service availability affect which actions are offered. 
 
 The engineering emphasis is private member experiences, reusable chat and media controls, localization, and server-authoritative commerce.
 
-![NTM8 public landing page](../assets/ntm8.jpg)
+![NTM8 public landing page](../assets/ntm8-public-2026-10-28.jpg)
 
 [Architecture](../docs/architecture.md) · [All product journeys](../docs/product-journeys.md)
