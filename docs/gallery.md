@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md)
 
-Captured from the live product interfaces on **October 26, 2026**. Screenshots illustrate presentation at a point in time. Prices, content, ordering availability, and features may change.
+Product landing/workspace images were captured on **October 26, 2026**. The About & version screenshot below was captured on **October 28, 2026**. Screenshots illustrate presentation at a point in time. Prices, content, ordering availability, and features may change.
 
 ## Nouns
 
@@ -27,3 +27,11 @@ Bilingual storefront with food photography, menu search, and cart summary. Annou
 Empty resume-targeting workspace showing the five-step journey, document upload, and editable resume area. Framed below the account header; no account identity or saved resume content is shown.
 
 [![RZM8 resume targeting workspace](../assets/rzm8.jpg)](https://rzm8.com/app/resume)
+
+## Release identity and support
+
+The deployed About & version page reports browser, SPA and API builds. Worker checks are separate and require privileged access.
+
+![Nouns About and version](../assets/nouns-about-2026-10-28.jpg)
+
+See [latest updates](latest-updates.md) for feature descriptions and verification scope.
