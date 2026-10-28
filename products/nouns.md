@@ -13,6 +13,12 @@ Nouns brings media, sharing, translation, and connected application experiences 
 - Use translation and communication features.
 - Move between the related RZM8, NTM8, and Chibichi experiences.
 
+## October 28 updates
+
+Shared administration now provides a seven-brand workspace picker, searchable tools, breadcrumbs and responsive language/theme controls while preserving existing permissions. About & version reports the browser, deployed SPA and API release identity, with explicit privileged worker checks.
+
+[Latest platform updates and release screenshot](../docs/latest-updates.md)
+
 ## Typical journey
 
 Organize media → select what to share → create a share link → send the link through your preferred channel.

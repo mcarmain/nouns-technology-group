@@ -15,6 +15,12 @@ RZM8 helps a person compare their experience with a target job, inspect requirem
 - Export Word documents or print / save PDF.
 - Explicitly save projects and reopen them later.
 
+## October 28 updates
+
+Administration includes verified-member assessment deposits, balance/ledger inspection, same-request retries and advanced account reset controls. Assessment allowances are separate from NTM8 Sparks; reset is a privileged permanent action.
+
+[Latest platform updates](../docs/latest-updates.md#rzm8)
+
 ## Typical journey
 
 Resume → Target job → Assessment → Fill gaps → Review draft → Export or save.

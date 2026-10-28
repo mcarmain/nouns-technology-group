@@ -13,6 +13,12 @@ NTM8 supports personal connections through profiles, discovery, messaging, and s
 - Profile media and slideshow sharing.
 - Membership, wallet, and store experiences.
 
+## October 28 updates
+
+Studio now supports enabled, versioned image style presets and durable quote/job receipts. Sparks reservations settle only after successful media storage; failed jobs release holds. Kawaii compatibility/readiness checks and resumable private diagnostics support controlled rollout. GPU and member gallery/billing acceptance remain separate checks.
+
+[Studio, Sparks and readiness details](../docs/latest-updates.md#ntm8-studio-and-sparks)
+
 ## Typical journey
 
 Sign in → create a profile → explore discovery → connect and message → share media.
