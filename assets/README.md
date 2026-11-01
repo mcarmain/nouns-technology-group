@@ -1,3 +1,3 @@
 # Screenshot assets
 
-Dated captures of public product pages. See the [gallery](../docs/gallery.md) for context.
+Public product captures are dated in the [gallery](../docs/gallery.md). The November 1 NTM8 capture contains public marketing content only. Do not add member uploads, private conversations, admin screens, operational diagnostics, or unlabelled mockups. Historical captures are not current feature acceptance evidence.
