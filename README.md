@@ -14,7 +14,7 @@ Built by **Martin Carmain**.
 | **RZM8** | Evidence-based resume targeting, gap filling, draft review, and document export | [Open RZM8](https://rzm8.com/) | [Product guide](products/rzm8.md) |
 | **Chibichi / Setsuko’s Kitchen** | Bilingual food ordering and the operational workflows behind a small kitchen | [Open Chibichi](https://chibichi.com/) | [Product guide](products/chibichi.md) |
 
-Features, menu availability, and access requirements vary by product. These pages describe the portfolio as of **October 28, 2026**; they are not a service availability or release guarantee.
+Features, menu availability, and access requirements vary by product. These pages describe the portfolio as of **November 1, 2026**; they are not a service availability or release guarantee.
 
 ## See the experience
 
