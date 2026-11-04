@@ -5,7 +5,7 @@
 | Product | Start | Main workflow | Outcome |
 | --- | --- | --- | --- |
 | Nouns | Open the platform | Organize media, select content, create a share | A link or slideshow that can be shared |
-| NTM8 | Sign in and set up a profile | Discover people, connect, message, and exchange media | An ongoing personal connection |
+| NTM8 | Join, verify email and set up a profile | Discover people across languages and borders, connect, message, translate and share media | An ongoing personal connection |
 | RZM8 | Import a resume and add a target job | Assess, review gaps, confirm experience, edit | A reviewed resume to export or save |
 | Chibichi | Browse the current menu | Choose quantities, review cart, checkout | An order that follows payment and fulfillment stages |
 

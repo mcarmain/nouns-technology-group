@@ -10,11 +10,11 @@ Built by **Martin Carmain**.
 | Product | What it does | Visit | Overview |
 | --- | --- | --- | --- |
 | **Nouns** | Media management, link sharing, translation, and connected experiences | [Open Nouns](https://nouns.azurewebsites.net/) | [Product guide](products/nouns.md) |
-| **NTM8 / NT Mate** | Profiles, discovery, messaging, and photo/video sharing for personal connections | [Open NTM8](https://ntm8.com/) | [Product guide](products/ntm8.md) |
+| **NTM8 / NT Mate** | Meet people across languages and borders through discovery, messaging and media | [Open NTM8](https://ntm8.com/) | [Product guide](products/ntm8.md) |
 | **RZM8** | Evidence-based resume targeting, gap filling, draft review, and document export | [Open RZM8](https://rzm8.com/) | [Product guide](products/rzm8.md) |
 | **Chibichi / Setsuko’s Kitchen** | Bilingual food ordering and the operational workflows behind a small kitchen | [Open Chibichi](https://chibichi.com/) | [Product guide](products/chibichi.md) |
 
-Features, menu availability, and access requirements vary by product. These pages describe the portfolio as of **November 1, 2026**; they are not a service availability or release guarantee.
+Features, menu availability, and access requirements vary by product. These pages describe the portfolio as of **November 4, 2026**; they are not a service availability or release guarantee.
 
 ## See the experience
 
@@ -28,6 +28,7 @@ The platform combines a React / TypeScript frontend with ASP.NET Core APIs, rela
 
 - [Architecture overview and diagrams](docs/architecture.md)
 - [Product journeys](docs/product-journeys.md)
+- [Studio media, quotes and saved results](docs/studio-media.md)
 - [Public documentation and publication scope](docs/public-documentation.md)
 
 The engineering focus is reusable platform capabilities with clear product boundaries: authentication, localization, media handling, API integration, operational workflows, and AI-assisted experiences.

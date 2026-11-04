@@ -1,30 +1,19 @@
 # NTM8 / NT Mate
-**Meaningful connections, wherever life takes you.**
 
-[Visit NTM8](https://ntm8.com/) · [Portfolio](../README.md)
+[Portfolio](../README.md) · [Open NTM8](https://ntm8.com/)
 
-NTM8 supports personal connections through profiles, discovery, messaging, and shared media.
+Meet people across languages and borders. NTM8 brings discovery, connections, messaging, translation and photo/video sharing into one member experience.
 
-## Capabilities
+## Member journey
 
-- Magic-link sign-in and profile setup.
-- Discovery based on interests and connection preferences.
-- Messaging with image and video media.
-- Profile media and slideshow sharing.
-- Membership, wallet, and store experiences.
+Join NTM8 Free opens the email step directly. Complete verification and the required profile/adult-confirmation steps, discover people, connect and start a conversation. Available now expresses willingness to connect; it does not promise an immediate reply.
 
-## Studio FX
+The wallet provides Sparks transaction history, running balances and active holds separately from available spending. Monthly Sparks allocation offers are presented first, with other offers available under additional options. Exact prices, renewal terms and enabled services are shown in the product.
 
-Studio FX explores photo styles through an illustrative visual picker. It remains under controlled acceptance; previews are not member generation results. See [latest updates](../docs/latest-updates.md).
+Where enabled, Studio offers image effects and photo-to-video creation from owned media. Review the current quote and available choices before submission. Results follow the product's ownership, visibility and moderation controls. See [Studio media](../docs/studio-media.md) and [latest updates](../docs/latest-updates.md).
 
-## Typical journey
+People, synthetic profiles and AI assistants need clear explanations and consistent labels; further category design remains separate work. Account, membership, service configuration and release status affect available actions. This showcase does not claim every AI or payment feature is enabled for every member.
 
-Sign in → create a profile → explore discovery → connect and message → share media.
+![NTM8 public landing page, captured November 1, 2026](../assets/ntm8-public-2026-11-01.jpg)
 
-Account, membership, and service availability affect which actions are offered. This showcase does not claim that every AI or payment feature is enabled for every member.
-
-The engineering emphasis is private member experiences, reusable chat and media controls, localization, and server-authoritative commerce.
-
-![NTM8 public landing page](../assets/ntm8-public-2026-11-01.jpg)
-
-[Architecture](../docs/architecture.md) · [All product journeys](../docs/product-journeys.md)
+[Architecture](../docs/architecture.md) · [Product journeys](../docs/product-journeys.md)
