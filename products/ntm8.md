@@ -14,6 +14,6 @@ Where enabled, Studio offers image effects and photo-to-video creation from owne
 
 People, synthetic profiles and AI assistants need clear explanations and consistent labels; further category design remains separate work. Account, membership, service configuration and release status affect available actions. This showcase does not claim every AI or payment feature is enabled for every member.
 
-![NTM8 public landing page, captured November 1, 2026](../assets/ntm8-public-2026-11-01.jpg)
+![NTM8 public landing page, captured November 4, 2026](../assets/ntm8-public-2026-11-04.jpg)
 
 [Architecture](../docs/architecture.md) · [Product journeys](../docs/product-journeys.md)
