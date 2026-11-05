@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md)
 
-Nouns, Chibichi and RZM8 images were captured on **October 26, 2026**. NTM8 was captured on **November 1, 2026**. Screenshots illustrate presentation at a point in time. Prices, content, ordering availability, and features may change.
+Nouns, Chibichi and RZM8 images were captured on **October 26, 2026**. NTM8 was captured on **November 4, 2026** after the Paris image update (SPA PR #589). Screenshots illustrate presentation at a point in time. Prices, content, ordering availability, and features may change.
 
 ## Nouns
 
@@ -14,7 +14,9 @@ Public landing page: media management, translation, and connected products.
 
 Public landing page: discovery, personal connections, and global community.
 
-[![NTM8 landing page](../assets/ntm8-public-2026-11-01.jpg)](https://ntm8.com/)
+[![NTM8 landing page](../assets/ntm8-public-2026-11-04.jpg)](https://ntm8.com/)
+
+[View the destinations and community capture](../assets/ntm8-public-destinations-2026-11-04.jpg). The regenerated Paris image keeps both people’s heads visible in the hero and destination thumbnail. These are production captures, not mockups.
 
 ## Chibichi / Setsuko’s Kitchen
 
