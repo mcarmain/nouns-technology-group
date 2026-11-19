@@ -1,8 +1,10 @@
-# Product updates — November 4, 2026
+# Product updates
 
 [Portfolio](../README.md) · [Screenshot gallery](gallery.md)
 
-## NTM8: connections across languages and borders
+## NTM8
+
+See the [NTM8 guide](../products/ntm8.md) for the member journey.
 
 The public signup CTA opens the email step directly. Discovery, connections, messaging and translation support the central benefit of meeting people across languages and borders. Availability expresses a member's willingness to connect independently of whether they are currently signed in.
 
@@ -12,9 +14,21 @@ The wallet includes transaction history, running balances and a distinction betw
 
 Studio includes image effects and a separate photo-to-video workflow with server-approved duration choices and a confirmed quote. Work continues after the dialog closes, and successful results return to the member's media. Recoverable processing and safeguards against duplicate charging are engineering priorities. See [Studio media](studio-media.md) for the user-facing lifecycle and current availability boundaries.
 
-Nouns supports media organization, share links and slideshows. RZM8 supports resume targeting, evidence review, editing, saved projects and export. Chibichi / Setsuko’s Kitchen combines customer ordering with kitchen operations.
-
 These summaries reflect reviewed source behavior, not a guarantee that every feature is enabled for every account or that every deployment/payment/generation path has completed acceptance.
+
+## Product guides
+
+### Nouns
+
+Organize images and videos, create share links, and present selected media as a slideshow. See the [Nouns guide](../products/nouns.md).
+
+### RZM8
+
+Compare a résumé with a target role, review supporting evidence, add confirmed experience to address gaps, and edit the resulting draft before export. See the [RZM8 guide](../products/rzm8.md).
+
+### Chibichi and Setsuko’s Kitchen
+
+Browse a bilingual menu, choose available items, and follow order, payment, and pickup instructions. The storefront supports the kitchen’s scheduling and fulfillment workflow. See the [Chibichi guide](../products/chibichi.md).
 
 ## Screenshot provenance
 
