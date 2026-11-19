@@ -6,7 +6,7 @@ Meet people across languages and borders. NTM8 brings discovery, connections, me
 
 ## Member journey
 
-Join NTM8 Free opens the email step directly. Complete verification and the required profile/adult-confirmation steps, discover people, connect and start a conversation. Available now expresses willingness to connect; it does not promise an immediate reply.
+Select **Start sharing** on the homepage to begin registration. Complete email verification and adult confirmation to reach the media experience. Discovery has a separate profile setup. **Available now** expresses willingness to connect.
 
 The wallet provides Sparks transaction history, running balances and active holds separately from available spending. Monthly Sparks allocation offers are presented first, with other offers available under additional options. Exact prices, renewal terms and enabled services are shown in the product.
 
