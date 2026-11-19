@@ -6,7 +6,7 @@
 
 See the [NTM8 guide](../products/ntm8.md) for the member journey.
 
-The public signup CTA opens the email step directly. Discovery, connections, messaging and translation support the central benefit of meeting people across languages and borders. Availability expresses a member's willingness to connect independently of whether they are currently signed in.
+The public homepage introduces private photo and video sharing. Select **Start sharing** to begin registration. Discovery, connections, messaging, and translation are available where offered. Availability expresses a member’s willingness to connect independently of whether they are signed in.
 
 The wallet includes transaction history, running balances and a distinction between held and available Sparks. History can be closed and reopened. Monthly Sparks allocation offers appear first, with additional offer types accessible separately. Prices and enabled services come from the application; payment environments and release availability require their own verification.
 
