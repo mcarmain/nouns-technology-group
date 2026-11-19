@@ -16,8 +16,6 @@ Public landing page: discovery, personal connections, and global community.
 
 [![NTM8 landing page](../assets/ntm8-public-2026-11-04.jpg)](https://ntm8.com/)
 
-[View the destinations and community capture](../assets/ntm8-public-destinations-2026-11-04.jpg). The regenerated Paris image keeps both people’s heads visible in the hero and destination thumbnail. These are production captures, not mockups.
-
 ## Chibichi / Setsuko’s Kitchen
 
 Bilingual storefront with food photography, menu search, and cart summary. Announcements are collapsed to highlight the menu. Sold-out indicators reflect actual availability at capture time.
