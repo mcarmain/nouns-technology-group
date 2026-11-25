@@ -6,7 +6,7 @@
 
 ### Returning to NTM8
 
-Existing members can request another sign-in link from the email confirmation screen. An expired or already-used link offers a direct path to request a fresh link. The interface provides recovery messages in the 15 currently supported languages.
+Existing members can request another sign-in link from the email confirmation screen. An expired or already-used link offers a direct path to request a fresh link. Sign-in recovery is available in all 23 interface languages.
 
 ### Holiday portraits
 
@@ -20,7 +20,7 @@ Starting an assessment saves its résumé and target-job inputs in a project wit
 
 The optional [RZM8 Journey](https://rzm8.com/journey) begins with a career-goal choice and carries that goal into sign-in and the résumé workspace. The existing RZM8 homepage remains available.
 
-The products currently offer 15 interface languages, including Norwegian Bokmål and Slovenian. Additional-language work is in progress.
+The products offer 23 interface languages. The eight additions are Hindi, Turkish, Thai, Filipino, Polish, Dutch, Ukrainian, and Bengali. Norwegian Bokmål and Slovenian remain available.
 
 ## NTM8
 
