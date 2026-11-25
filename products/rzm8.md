@@ -14,8 +14,18 @@ RZM8 helps a person compare their experience with a target job, inspect requirem
 - Review and edit the draft.
 - Export Word documents or print / save PDF.
 - Explicitly save projects and reopen them later.
+- Recover saved assessments after leaving the browser and signing in again.
+- Review assessment usage and reservations in the wallet.
 
 [Latest platform updates](../docs/latest-updates.md#rzm8)
+
+## Start with your goal
+
+The optional [Journey](https://rzm8.com/journey) asks whether you want to improve a résumé, apply for a job, create a résumé, or explore your options. Your selection carries into the existing sign-in and résumé workspace.
+
+## Recover interrupted work
+
+Starting an assessment saves its inputs in a project under the retention policy shown in the application. Sign in again to return to that project and its saved result. Reopening a completed assessment does not start another assessment. Review the wallet for completed usage and outstanding reservations.
 
 ## Typical journey
 
