@@ -30,4 +30,4 @@ Copyright © 2026 Nouns Technology Group LLC. All rights reserved.
 
 ## Review order and knowledge boundary
 
-Review private API/worker behavior and member flows before updating public descriptions. Record source changes separately from deployment and live acceptance. Existing screenshots keep their capture dates. Public pages are curated portfolio content; the private NEIO corpus is not copied into this repository. See [latest updates](latest-updates.md) and [Studio lifecycle](studio-media.md).
+Describe features that users can access in the released products. Keep development work distinct from available features, retain original screenshot dates, and exclude implementation details, operational procedures, and private account information. See [latest updates](latest-updates.md) and [Studio lifecycle](studio-media.md).

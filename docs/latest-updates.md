@@ -2,6 +2,26 @@
 
 [Portfolio](../README.md) · [Screenshot gallery](gallery.md)
 
+## November 24, 2026
+
+### Returning to NTM8
+
+Existing members can request another sign-in link from the email confirmation screen. An expired or already-used link offers a direct path to request a fresh link. The interface provides recovery messages in the 15 currently supported languages.
+
+### Holiday portraits
+
+Thanksgiving and Christmas portraits have a **View my photos** entry point. Returning visitors can verify their email to find saved portraits and download unlocked results. Opening the gallery does not require uploading another source photo or generating a new portrait.
+
+Visit [Thanksgiving portraits](https://ntm8.com/thanksgiving) or [Christmas portraits](https://ntm8.com/christmas). Current prices and download access are shown in the application.
+
+### Recovering RZM8 assessments
+
+Starting an assessment saves its résumé and target-job inputs in a project with the displayed retention period. After closing the browser, users can sign in again and recover the saved assessment. Reopening a completed result uses the saved result. The assessment wallet shows reservations and completed usage.
+
+The optional [RZM8 Journey](https://rzm8.com/journey) begins with a career-goal choice and carries that goal into sign-in and the résumé workspace. The existing RZM8 homepage remains available.
+
+The products currently offer 15 interface languages, including Norwegian Bokmål and Slovenian. Additional-language work is in progress.
+
 ## NTM8
 
 See the [NTM8 guide](../products/ntm8.md) for the member journey.

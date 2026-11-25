@@ -4,6 +4,14 @@
 
 Meet people across languages and borders. NTM8 brings discovery, connections, messaging, translation and photo/video sharing into one member experience.
 
+## Returning and recovering access
+
+Existing members can resend a sign-in link from the email confirmation screen. Expired links provide an action to request a fresh link.
+
+## Holiday portraits
+
+[Thanksgiving](https://ntm8.com/thanksgiving) and [Christmas](https://ntm8.com/christmas) portraits have a **View my photos** option for returning visitors. Verify the same email used for the portraits to browse saved results and download unlocked images. The gallery supports returning without uploading another photo.
+
 ## Member journey
 
 Select **Start sharing** on the homepage to begin registration. Complete email verification and adult confirmation to reach the media experience. Discovery has a separate profile setup. **Available now** expresses willingness to connect.
